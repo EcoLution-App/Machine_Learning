@@ -1,6 +1,0 @@
-Numpy
-Pandas
-Flask
-scikit-learn
-Tensorflow
-gunicorn
