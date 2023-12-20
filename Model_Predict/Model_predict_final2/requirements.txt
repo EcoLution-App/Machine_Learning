@@ -1,6 +1,6 @@
 Numpy
 Pandas
 Flask
-Sklearn
+scikit-learn
 Tensorflow
 gunicorn
