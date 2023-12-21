@@ -1,4 +1,4 @@
-# MODEL-MACHINE-LEARNING-PREDICT
+# Machine-Learning-Prediction
 How to copy and use Machine Learning project:
 
 Requirement to copy the app:
